@@ -1,0 +1,10 @@
+{
+  "name": "rabbitmq-tutorial",
+  "version": "1.0.0",
+  "description": "RabbitMQ Tutorial",
+  "author": "Bac Trach Dam",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.10.4"
+  }
+}
