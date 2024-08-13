@@ -2,6 +2,10 @@
   "name": "rabbitmq-tutorial",
   "version": "1.0.0",
   "description": "RabbitMQ Tutorial",
+  "scripts": {
+    "send": "node src/send.js",
+    "receive": "node src/receive.js"
+  },
   "author": "Bac Trach Dam",
   "license": "ISC",
   "dependencies": {
